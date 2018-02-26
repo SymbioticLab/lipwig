@@ -26,13 +26,13 @@
 </g>
 <g id="clust4" class="cluster">
 <title>cluster_Reducer_5</title>
-<polygon fill="none" stroke="#ff0000" stroke-dasharray="5,2" points="502,-2067 502,-2455 686,-2455 686,-2067 502,-2067"/>
-<text text-anchor="middle" x="594" y="-2439.8" font-family="Times,serif" font-size="14.00" fill="#000000">Reducer 5 (vectorized=false)</text>
+<polygon fill="none" stroke="#ff0000" stroke-dasharray="5,2" points="505,-2067 505,-2455 689,-2455 689,-2067 505,-2067"/>
+<text text-anchor="middle" x="597" y="-2439.8" font-family="Times,serif" font-size="14.00" fill="#000000">Reducer 5 (vectorized=false)</text>
 </g>
 <g id="clust5" class="cluster">
 <title>cluster_Reducer_4</title>
-<polygon fill="none" stroke="#ff0000" stroke-dasharray="5,2" points="846,-2487 846,-2875 1030,-2875 1030,-2487 846,-2487"/>
-<text text-anchor="middle" x="938" y="-2859.8" font-family="Times,serif" font-size="14.00" fill="#000000">Reducer 4 (vectorized=false)</text>
+<polygon fill="none" stroke="#ff0000" stroke-dasharray="5,2" points="849,-2487 849,-2875 1033,-2875 1033,-2487 849,-2487"/>
+<text text-anchor="middle" x="941" y="-2859.8" font-family="Times,serif" font-size="14.00" fill="#000000">Reducer 4 (vectorized=false)</text>
 </g>
 <g id="clust6" class="cluster">
 <title>cluster_Reducer_7</title>
@@ -41,8 +41,8 @@
 </g>
 <g id="clust7" class="cluster">
 <title>cluster_Reducer_6</title>
-<polygon fill="none" stroke="#ff0000" stroke-dasharray="5,2" points="392,-1523 392,-2035 680,-2035 680,-1523 392,-1523"/>
-<text text-anchor="middle" x="536" y="-2019.8" font-family="Times,serif" font-size="14.00" fill="#000000">Reducer 6 (vectorized=false)</text>
+<polygon fill="none" stroke="#ff0000" stroke-dasharray="5,2" points="392,-1523 392,-2035 686,-2035 686,-1523 392,-1523"/>
+<text text-anchor="middle" x="539" y="-2019.8" font-family="Times,serif" font-size="14.00" fill="#000000">Reducer 6 (vectorized=false)</text>
 </g>
 <g id="clust8" class="cluster">
 <title>cluster_Reducer_3</title>
@@ -51,8 +51,8 @@
 </g>
 <g id="clust9" class="cluster">
 <title>cluster_Reducer_2</title>
-<polygon fill="none" stroke="#ff0000" stroke-dasharray="5,2" points="1151,-3285 1151,-3673 1335,-3673 1335,-3285 1151,-3285"/>
-<text text-anchor="middle" x="1243" y="-3657.8" font-family="Times,serif" font-size="14.00" fill="#000000">Reducer 2 (vectorized=false)</text>
+<polygon fill="none" stroke="#ff0000" stroke-dasharray="5,2" points="1148,-3285 1148,-3673 1332,-3673 1332,-3285 1148,-3285"/>
+<text text-anchor="middle" x="1240" y="-3657.8" font-family="Times,serif" font-size="14.00" fill="#000000">Reducer 2 (vectorized=false)</text>
 </g>
 <g id="clust10" class="cluster">
 <title>cluster_Map_16</title>
@@ -92,36 +92,36 @@
 <!-- FAKE_0 -->
 <g id="FAKE_0" class="node">
 <title>FAKE_0</title>
-<polygon fill="none" stroke="#000000" points="1106,-4525 1106,-4545 1239,-4545 1239,-4525 1106,-4525"/>
-<text text-anchor="start" x="1143.4473" y="-4531.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">TableScan</text>
-<polygon fill="none" stroke="#000000" points="1106,-4503 1106,-4523 1147,-4523 1147,-4503 1106,-4503"/>
-<text text-anchor="start" x="1112.5034" y="-4508.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1149,-4503 1149,-4523 1239,-4523 1239,-4503 1149,-4503"/>
-<text text-anchor="start" x="1152" y="-4508.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 12393463904 </text>
-<polygon fill="none" stroke="#000000" points="1106,-4481 1106,-4501 1147,-4501 1147,-4481 1106,-4481"/>
-<text text-anchor="start" x="1108.6069" y="-4486.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1149,-4481 1149,-4501 1239,-4501 1239,-4481 1149,-4481"/>
-<text text-anchor="start" x="1159" y="-4486.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 137528107 </text>
-<polygon fill="none" stroke="#000000" points="1106,-4459 1106,-4479 1147,-4479 1147,-4459 1106,-4459"/>
-<text text-anchor="start" x="1111.7275" y="-4464.8" font-family="Times,serif" font-size="14.00" fill="#000000">alias:</text>
-<polygon fill="none" stroke="#000000" points="1149,-4459 1149,-4479 1239,-4479 1239,-4459 1149,-4459"/>
-<text text-anchor="start" x="1157.5713" y="-4464.8" font-family="Times,serif" font-size="14.00" fill="#000000">&quot;store_sales&quot;</text>
-<polygon fill="none" stroke="#000000" points="1102.5,-4456 1102.5,-4548 1241.5,-4548 1241.5,-4456 1102.5,-4456"/>
+<polygon fill="none" stroke="#000000" points="1102,-4525 1102,-4545 1242,-4545 1242,-4525 1102,-4525"/>
+<text text-anchor="start" x="1142.9473" y="-4531.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">TableScan</text>
+<polygon fill="none" stroke="#000000" points="1102,-4503 1102,-4523 1143,-4523 1143,-4503 1102,-4503"/>
+<text text-anchor="start" x="1108.5034" y="-4508.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1145,-4503 1145,-4523 1242,-4523 1242,-4503 1145,-4503"/>
+<text text-anchor="start" x="1148" y="-4508.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 123924790216 </text>
+<polygon fill="none" stroke="#000000" points="1102,-4481 1102,-4501 1143,-4501 1143,-4481 1102,-4481"/>
+<text text-anchor="start" x="1104.6069" y="-4486.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1145,-4481 1145,-4501 1242,-4501 1242,-4481 1145,-4481"/>
+<text text-anchor="start" x="1155" y="-4486.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1375179721 </text>
+<polygon fill="none" stroke="#000000" points="1102,-4459 1102,-4479 1143,-4479 1143,-4459 1102,-4459"/>
+<text text-anchor="start" x="1107.7275" y="-4464.8" font-family="Times,serif" font-size="14.00" fill="#000000">alias:</text>
+<polygon fill="none" stroke="#000000" points="1145,-4459 1145,-4479 1242,-4479 1242,-4459 1145,-4459"/>
+<text text-anchor="start" x="1157.0713" y="-4464.8" font-family="Times,serif" font-size="14.00" fill="#000000">&quot;store_sales&quot;</text>
+<polygon fill="none" stroke="#000000" points="1099,-4456 1099,-4548 1245,-4548 1245,-4456 1099,-4456"/>
 </g>
 <!-- FAKE_1 -->
 <g id="FAKE_1" class="node">
 <title>FAKE_1</title>
-<polygon fill="none" stroke="#000000" points="1106,-4319 1106,-4339 1239,-4339 1239,-4319 1106,-4319"/>
-<text text-anchor="start" x="1130.7085" y="-4325.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Filter Operator</text>
-<polygon fill="none" stroke="#000000" points="1106,-4297 1106,-4317 1147,-4317 1147,-4297 1106,-4297"/>
-<text text-anchor="start" x="1112.5034" y="-4302.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1149,-4297 1149,-4317 1239,-4317 1239,-4297 1149,-4297"/>
-<text text-anchor="start" x="1152" y="-4302.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 12393463904 </text>
-<polygon fill="none" stroke="#000000" points="1106,-4275 1106,-4295 1147,-4295 1147,-4275 1106,-4275"/>
-<text text-anchor="start" x="1108.6069" y="-4280.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1149,-4275 1149,-4295 1239,-4295 1239,-4275 1149,-4275"/>
-<text text-anchor="start" x="1159" y="-4280.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 137528107 </text>
-<polygon fill="none" stroke="#000000" points="1102.5,-4272 1102.5,-4342 1241.5,-4342 1241.5,-4272 1102.5,-4272"/>
+<polygon fill="none" stroke="#000000" points="1102,-4319 1102,-4339 1242,-4339 1242,-4319 1102,-4319"/>
+<text text-anchor="start" x="1130.2085" y="-4325.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Filter Operator</text>
+<polygon fill="none" stroke="#000000" points="1102,-4297 1102,-4317 1143,-4317 1143,-4297 1102,-4297"/>
+<text text-anchor="start" x="1108.5034" y="-4302.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1145,-4297 1145,-4317 1242,-4317 1242,-4297 1145,-4297"/>
+<text text-anchor="start" x="1148" y="-4302.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 123924790216 </text>
+<polygon fill="none" stroke="#000000" points="1102,-4275 1102,-4295 1143,-4295 1143,-4275 1102,-4275"/>
+<text text-anchor="start" x="1104.6069" y="-4280.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1145,-4275 1145,-4295 1242,-4295 1242,-4275 1145,-4275"/>
+<text text-anchor="start" x="1155" y="-4280.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1375179721 </text>
+<polygon fill="none" stroke="#000000" points="1099,-4272 1099,-4342 1245,-4342 1245,-4272 1099,-4272"/>
 </g>
 <!-- FAKE_0&#45;&gt;FAKE_1 -->
 <g id="edge1" class="edge">
@@ -132,17 +132,17 @@
 <!-- FAKE_2 -->
 <g id="FAKE_2" class="node">
 <title>FAKE_2</title>
-<polygon fill="none" stroke="#000000" points="1106,-4036 1106,-4056 1239,-4056 1239,-4036 1106,-4036"/>
-<text text-anchor="start" x="1128.7705" y="-4042.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Select Operator</text>
-<polygon fill="none" stroke="#000000" points="1106,-4014 1106,-4034 1147,-4034 1147,-4014 1106,-4014"/>
-<text text-anchor="start" x="1112.5034" y="-4019.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1149,-4014 1149,-4034 1239,-4034 1239,-4014 1149,-4014"/>
-<text text-anchor="start" x="1152" y="-4019.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 12393463904 </text>
-<polygon fill="none" stroke="#000000" points="1106,-3992 1106,-4012 1147,-4012 1147,-3992 1106,-3992"/>
-<text text-anchor="start" x="1108.6069" y="-3997.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1149,-3992 1149,-4012 1239,-4012 1239,-3992 1149,-3992"/>
-<text text-anchor="start" x="1159" y="-3997.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 137528107 </text>
-<polygon fill="none" stroke="#000000" points="1102.5,-3989 1102.5,-4059 1241.5,-4059 1241.5,-3989 1102.5,-3989"/>
+<polygon fill="none" stroke="#000000" points="1102,-4036 1102,-4056 1242,-4056 1242,-4036 1102,-4036"/>
+<text text-anchor="start" x="1128.2705" y="-4042.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Select Operator</text>
+<polygon fill="none" stroke="#000000" points="1102,-4014 1102,-4034 1143,-4034 1143,-4014 1102,-4014"/>
+<text text-anchor="start" x="1108.5034" y="-4019.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1145,-4014 1145,-4034 1242,-4034 1242,-4014 1145,-4014"/>
+<text text-anchor="start" x="1148" y="-4019.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 123924790216 </text>
+<polygon fill="none" stroke="#000000" points="1102,-3992 1102,-4012 1143,-4012 1143,-3992 1102,-3992"/>
+<text text-anchor="start" x="1104.6069" y="-3997.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1145,-3992 1145,-4012 1242,-4012 1242,-3992 1145,-3992"/>
+<text text-anchor="start" x="1155" y="-3997.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1375179721 </text>
+<polygon fill="none" stroke="#000000" points="1099,-3989 1099,-4059 1245,-4059 1245,-3989 1099,-3989"/>
 </g>
 <!-- FAKE_1&#45;&gt;FAKE_2 -->
 <g id="edge2" class="edge">
@@ -155,14 +155,14 @@
 <title>FAKE_3</title>
 <polygon fill="none" stroke="#000000" points="1100,-3764 1100,-3784 1245,-3784 1245,-3764 1100,-3764"/>
 <text text-anchor="start" x="1103.6895" y="-3770.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
-<polygon fill="none" stroke="#000000" points="1100,-3742 1100,-3762 1147,-3762 1147,-3742 1100,-3742"/>
-<text text-anchor="start" x="1109.5034" y="-3747.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1149,-3742 1149,-3762 1245,-3762 1245,-3742 1149,-3742"/>
-<text text-anchor="start" x="1155" y="-3747.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 12393463904 </text>
-<polygon fill="none" stroke="#000000" points="1100,-3720 1100,-3740 1147,-3740 1147,-3720 1100,-3720"/>
-<text text-anchor="start" x="1105.6069" y="-3725.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1149,-3720 1149,-3740 1245,-3740 1245,-3720 1149,-3720"/>
-<text text-anchor="start" x="1162" y="-3725.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 137528107 </text>
+<polygon fill="none" stroke="#000000" points="1100,-3742 1100,-3762 1143,-3762 1143,-3742 1100,-3742"/>
+<text text-anchor="start" x="1107.5034" y="-3747.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1145,-3742 1145,-3762 1245,-3762 1245,-3742 1145,-3742"/>
+<text text-anchor="start" x="1149.5" y="-3747.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 123924790216 </text>
+<polygon fill="none" stroke="#000000" points="1100,-3720 1100,-3740 1143,-3740 1143,-3720 1100,-3720"/>
+<text text-anchor="start" x="1103.6069" y="-3725.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1145,-3720 1145,-3740 1245,-3740 1245,-3720 1145,-3720"/>
+<text text-anchor="start" x="1156.5" y="-3725.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1375179721 </text>
 <polygon fill="none" stroke="#000000" points="1096.5,-3717 1096.5,-3787 1247.5,-3787 1247.5,-3717 1096.5,-3717"/>
 </g>
 <!-- FAKE_2&#45;&gt;FAKE_3 -->
@@ -174,39 +174,39 @@
 <!-- FAKE_23 -->
 <g id="FAKE_23" class="node">
 <title>FAKE_23</title>
-<polygon fill="none" stroke="#000000" points="1177,-3616 1177,-3636 1310,-3636 1310,-3616 1177,-3616"/>
-<text text-anchor="start" x="1185.3091" y="-3622.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Merge Join Operator</text>
-<polygon fill="none" stroke="#000000" points="1177,-3594 1177,-3614 1218,-3614 1218,-3594 1177,-3594"/>
-<text text-anchor="start" x="1183.5034" y="-3599.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1220,-3594 1220,-3614 1310,-3614 1310,-3594 1220,-3594"/>
-<text text-anchor="start" x="1223" y="-3599.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 13632810589 </text>
-<polygon fill="none" stroke="#000000" points="1177,-3572 1177,-3592 1218,-3592 1218,-3572 1177,-3572"/>
-<text text-anchor="start" x="1179.6069" y="-3577.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1220,-3572 1220,-3592 1310,-3592 1310,-3572 1220,-3572"/>
-<text text-anchor="start" x="1230" y="-3577.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 151280920 </text>
-<polygon fill="none" stroke="#000000" points="1173.5,-3569 1173.5,-3639 1312.5,-3639 1312.5,-3569 1173.5,-3569"/>
+<polygon fill="none" stroke="#000000" points="1170,-3616 1170,-3636 1310,-3636 1310,-3616 1170,-3616"/>
+<text text-anchor="start" x="1181.8091" y="-3622.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Merge Join Operator</text>
+<polygon fill="none" stroke="#000000" points="1170,-3594 1170,-3614 1211,-3614 1211,-3594 1170,-3594"/>
+<text text-anchor="start" x="1176.5034" y="-3599.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1213,-3594 1213,-3614 1310,-3614 1310,-3594 1213,-3594"/>
+<text text-anchor="start" x="1216" y="-3599.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 136317272192 </text>
+<polygon fill="none" stroke="#000000" points="1170,-3572 1170,-3592 1211,-3592 1211,-3572 1170,-3572"/>
+<text text-anchor="start" x="1172.6069" y="-3577.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1213,-3572 1213,-3592 1310,-3592 1310,-3572 1213,-3572"/>
+<text text-anchor="start" x="1223" y="-3577.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1512697725 </text>
+<polygon fill="none" stroke="#000000" points="1167,-3569 1167,-3639 1313,-3639 1313,-3569 1167,-3569"/>
 </g>
 <!-- FAKE_3&#45;&gt;FAKE_23 -->
 <g id="edge58" class="edge">
 <title>FAKE_3:s&#45;&gt;FAKE_23:n</title>
-<path fill="none" stroke="#000000" d="M1172,-3713C1172,-3672.495 1231.3212,-3684.5766 1241.5171,-3653.1099"/>
-<polygon fill="#000000" stroke="#000000" points="1245.0116,-3653.4021 1243,-3643 1238.0857,-3652.3861 1245.0116,-3653.4021"/>
-<text text-anchor="middle" x="1246.0552" y="-3683.8" font-family="Times,serif" font-size="14.00" fill="#000000">SIMPLE_EDGE</text>
+<path fill="none" stroke="#000000" d="M1172,-3713C1172,-3673.3537 1228.8147,-3683.9393 1238.5797,-3652.9266"/>
+<polygon fill="#000000" stroke="#000000" points="1242.0483,-3653.3949 1240,-3643 1235.1188,-3652.4034 1242.0483,-3653.3949"/>
+<text text-anchor="middle" x="1244.0552" y="-3683.8" font-family="Times,serif" font-size="14.00" fill="#000000">SIMPLE_EDGE</text>
 </g>
 <!-- FAKE_4 -->
 <g id="FAKE_4" class="node">
 <title>FAKE_4</title>
-<polygon fill="none" stroke="#000000" points="167,-373 167,-393 300,-393 300,-373 167,-373"/>
-<text text-anchor="start" x="189.7705" y="-379.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Select Operator</text>
-<polygon fill="none" stroke="#000000" points="167,-351 167,-371 208,-371 208,-351 167,-351"/>
-<text text-anchor="start" x="173.5034" y="-356.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="210,-351 210,-371 300,-371 300,-351 210,-351"/>
-<text text-anchor="start" x="213" y="-356.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 12075679302 </text>
-<polygon fill="none" stroke="#000000" points="167,-329 167,-349 208,-349 208,-329 167,-329"/>
-<text text-anchor="start" x="169.6069" y="-334.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="210,-329 210,-349 300,-349 300,-329 210,-329"/>
-<text text-anchor="start" x="220" y="-334.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 134001704 </text>
-<polygon fill="none" stroke="#000000" points="163.5,-326 163.5,-396 302.5,-396 302.5,-326 163.5,-326"/>
+<polygon fill="none" stroke="#000000" points="163,-373 163,-393 303,-393 303,-373 163,-373"/>
+<text text-anchor="start" x="189.2705" y="-379.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Select Operator</text>
+<polygon fill="none" stroke="#000000" points="163,-351 163,-371 204,-371 204,-351 163,-351"/>
+<text text-anchor="start" x="169.5034" y="-356.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="206,-351 206,-371 303,-371 303,-351 206,-351"/>
+<text text-anchor="start" x="209" y="-356.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 120747197177 </text>
+<polygon fill="none" stroke="#000000" points="163,-329 163,-349 204,-349 204,-329 163,-329"/>
+<text text-anchor="start" x="165.6069" y="-334.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="206,-329 206,-349 303,-349 303,-329 206,-329"/>
+<text text-anchor="start" x="216" y="-334.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1339918319 </text>
+<polygon fill="none" stroke="#000000" points="160,-326 160,-396 306,-396 306,-326 160,-326"/>
 </g>
 <!-- FAKE_5 -->
 <g id="FAKE_5" class="node">
@@ -253,32 +253,32 @@
 <!-- FAKE_7 -->
 <g id="FAKE_7" class="node">
 <title>FAKE_7</title>
-<polygon fill="none" stroke="#000000" points="167,-827 167,-847 300,-847 300,-827 167,-827"/>
-<text text-anchor="start" x="179.0688" y="-833.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Group By Operator</text>
-<polygon fill="none" stroke="#000000" points="167,-805 167,-825 208,-825 208,-805 167,-805"/>
-<text text-anchor="start" x="173.5034" y="-810.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="210,-805 210,-825 300,-825 300,-805 210,-805"/>
-<text text-anchor="start" x="213" y="-810.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 12075679302 </text>
-<polygon fill="none" stroke="#000000" points="167,-783 167,-803 208,-803 208,-783 167,-783"/>
-<text text-anchor="start" x="169.6069" y="-788.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="210,-783 210,-803 300,-803 300,-783 210,-783"/>
-<text text-anchor="start" x="220" y="-788.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 134001704 </text>
-<polygon fill="none" stroke="#000000" points="163.5,-780 163.5,-850 302.5,-850 302.5,-780 163.5,-780"/>
+<polygon fill="none" stroke="#000000" points="163,-827 163,-847 303,-847 303,-827 163,-827"/>
+<text text-anchor="start" x="178.5688" y="-833.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Group By Operator</text>
+<polygon fill="none" stroke="#000000" points="163,-805 163,-825 204,-825 204,-805 163,-805"/>
+<text text-anchor="start" x="169.5034" y="-810.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="206,-805 206,-825 303,-825 303,-805 206,-805"/>
+<text text-anchor="start" x="209" y="-810.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 120747197177 </text>
+<polygon fill="none" stroke="#000000" points="163,-783 163,-803 204,-803 204,-783 163,-783"/>
+<text text-anchor="start" x="165.6069" y="-788.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="206,-783 206,-803 303,-803 303,-783 206,-783"/>
+<text text-anchor="start" x="216" y="-788.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1339918319 </text>
+<polygon fill="none" stroke="#000000" points="160,-780 160,-850 306,-850 306,-780 160,-780"/>
 </g>
 <!-- FAKE_8 -->
 <g id="FAKE_8" class="node">
 <title>FAKE_8</title>
-<polygon fill="none" stroke="#000000" points="167,-674 167,-694 300,-694 300,-674 167,-674"/>
-<text text-anchor="start" x="189.7705" y="-680.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Select Operator</text>
-<polygon fill="none" stroke="#000000" points="167,-652 167,-672 208,-672 208,-652 167,-652"/>
-<text text-anchor="start" x="173.5034" y="-657.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="210,-652 210,-672 300,-672 300,-652 210,-652"/>
-<text text-anchor="start" x="213" y="-657.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 12075679302 </text>
-<polygon fill="none" stroke="#000000" points="167,-630 167,-650 208,-650 208,-630 167,-630"/>
-<text text-anchor="start" x="169.6069" y="-635.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="210,-630 210,-650 300,-650 300,-630 210,-630"/>
-<text text-anchor="start" x="220" y="-635.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 134001704 </text>
-<polygon fill="none" stroke="#000000" points="163.5,-627 163.5,-697 302.5,-697 302.5,-627 163.5,-627"/>
+<polygon fill="none" stroke="#000000" points="163,-674 163,-694 303,-694 303,-674 163,-674"/>
+<text text-anchor="start" x="189.2705" y="-680.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Select Operator</text>
+<polygon fill="none" stroke="#000000" points="163,-652 163,-672 204,-672 204,-652 163,-652"/>
+<text text-anchor="start" x="169.5034" y="-657.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="206,-652 206,-672 303,-672 303,-652 206,-652"/>
+<text text-anchor="start" x="209" y="-657.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 120747197177 </text>
+<polygon fill="none" stroke="#000000" points="163,-630 163,-650 204,-650 204,-630 163,-630"/>
+<text text-anchor="start" x="165.6069" y="-635.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="206,-630 206,-650 303,-650 303,-630 206,-630"/>
+<text text-anchor="start" x="216" y="-635.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1339918319 </text>
+<polygon fill="none" stroke="#000000" points="160,-627 160,-697 306,-697 306,-627 160,-627"/>
 </g>
 <!-- FAKE_7&#45;&gt;FAKE_8 -->
 <g id="edge6" class="edge">
@@ -291,14 +291,14 @@
 <title>FAKE_9</title>
 <polygon fill="none" stroke="#000000" points="161,-521 161,-541 306,-541 306,-521 161,-521"/>
 <text text-anchor="start" x="164.6895" y="-527.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
-<polygon fill="none" stroke="#000000" points="161,-499 161,-519 208,-519 208,-499 161,-499"/>
-<text text-anchor="start" x="170.5034" y="-504.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="210,-499 210,-519 306,-519 306,-499 210,-499"/>
-<text text-anchor="start" x="216" y="-504.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 12075679302 </text>
-<polygon fill="none" stroke="#000000" points="161,-477 161,-497 208,-497 208,-477 161,-477"/>
-<text text-anchor="start" x="166.6069" y="-482.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="210,-477 210,-497 306,-497 306,-477 210,-477"/>
-<text text-anchor="start" x="223" y="-482.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 134001704 </text>
+<polygon fill="none" stroke="#000000" points="161,-499 161,-519 204,-519 204,-499 161,-499"/>
+<text text-anchor="start" x="168.5034" y="-504.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="206,-499 206,-519 306,-519 306,-499 206,-499"/>
+<text text-anchor="start" x="210.5" y="-504.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 120747197177 </text>
+<polygon fill="none" stroke="#000000" points="161,-477 161,-497 204,-497 204,-477 161,-477"/>
+<text text-anchor="start" x="164.6069" y="-482.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="206,-477 206,-497 306,-497 306,-477 206,-477"/>
+<text text-anchor="start" x="217.5" y="-482.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1339918319 </text>
 <polygon fill="none" stroke="#000000" points="157.5,-474 157.5,-544 308.5,-544 308.5,-474 157.5,-474"/>
 </g>
 <!-- FAKE_8&#45;&gt;FAKE_9 -->
@@ -317,133 +317,133 @@
 <!-- FAKE_10 -->
 <g id="FAKE_10" class="node">
 <title>FAKE_10</title>
-<polygon fill="none" stroke="#000000" points="534,-2398 534,-2418 667,-2418 667,-2398 534,-2398"/>
-<text text-anchor="start" x="542.3091" y="-2404.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Merge Join Operator</text>
-<polygon fill="none" stroke="#000000" points="534,-2376 534,-2396 575,-2396 575,-2376 534,-2376"/>
-<text text-anchor="start" x="540.5034" y="-2381.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="577,-2376 577,-2396 667,-2396 667,-2376 577,-2376"/>
-<text text-anchor="start" x="580" y="-2381.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 18145272071 </text>
-<polygon fill="none" stroke="#000000" points="534,-2354 534,-2374 575,-2374 575,-2354 534,-2354"/>
-<text text-anchor="start" x="536.6069" y="-2359.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="577,-2354 577,-2374 667,-2374 667,-2354 577,-2354"/>
-<text text-anchor="start" x="587" y="-2359.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 201354916 </text>
-<polygon fill="none" stroke="#000000" points="530.5,-2351 530.5,-2421 669.5,-2421 669.5,-2351 530.5,-2351"/>
+<polygon fill="none" stroke="#000000" points="530,-2398 530,-2418 670,-2418 670,-2398 530,-2398"/>
+<text text-anchor="start" x="541.8091" y="-2404.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Merge Join Operator</text>
+<polygon fill="none" stroke="#000000" points="530,-2376 530,-2396 571,-2396 571,-2376 530,-2376"/>
+<text text-anchor="start" x="536.5034" y="-2381.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="573,-2376 573,-2396 670,-2396 670,-2376 573,-2376"/>
+<text text-anchor="start" x="576" y="-2381.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 181438301084 </text>
+<polygon fill="none" stroke="#000000" points="530,-2354 530,-2374 571,-2374 571,-2354 530,-2354"/>
+<text text-anchor="start" x="532.6069" y="-2359.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="573,-2354 573,-2374 670,-2374 670,-2354 573,-2354"/>
+<text text-anchor="start" x="583" y="-2359.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 2013400801 </text>
+<polygon fill="none" stroke="#000000" points="527,-2351 527,-2421 673,-2421 673,-2351 527,-2351"/>
 </g>
 <!-- FAKE_11 -->
 <g id="FAKE_11" class="node">
 <title>FAKE_11</title>
-<polygon fill="none" stroke="#000000" points="522,-2126 522,-2146 667,-2146 667,-2126 522,-2126"/>
-<text text-anchor="start" x="525.6895" y="-2132.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
-<polygon fill="none" stroke="#000000" points="522,-2104 522,-2124 569,-2124 569,-2104 522,-2104"/>
-<text text-anchor="start" x="531.5034" y="-2109.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="571,-2104 571,-2124 667,-2124 667,-2104 571,-2104"/>
-<text text-anchor="start" x="577" y="-2109.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 18145272071 </text>
-<polygon fill="none" stroke="#000000" points="522,-2082 522,-2102 569,-2102 569,-2082 522,-2082"/>
-<text text-anchor="start" x="527.6069" y="-2087.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="571,-2082 571,-2102 667,-2102 667,-2082 571,-2082"/>
-<text text-anchor="start" x="584" y="-2087.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 201354916 </text>
-<polygon fill="none" stroke="#000000" points="518.5,-2079 518.5,-2149 669.5,-2149 669.5,-2079 518.5,-2079"/>
+<polygon fill="none" stroke="#000000" points="525,-2126 525,-2146 670,-2146 670,-2126 525,-2126"/>
+<text text-anchor="start" x="528.6895" y="-2132.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
+<polygon fill="none" stroke="#000000" points="525,-2104 525,-2124 568,-2124 568,-2104 525,-2104"/>
+<text text-anchor="start" x="532.5034" y="-2109.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="570,-2104 570,-2124 670,-2124 670,-2104 570,-2104"/>
+<text text-anchor="start" x="574.5" y="-2109.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 181438301084 </text>
+<polygon fill="none" stroke="#000000" points="525,-2082 525,-2102 568,-2102 568,-2082 525,-2082"/>
+<text text-anchor="start" x="528.6069" y="-2087.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="570,-2082 570,-2102 670,-2102 670,-2082 570,-2082"/>
+<text text-anchor="start" x="581.5" y="-2087.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 2013400801 </text>
+<polygon fill="none" stroke="#000000" points="521.5,-2079 521.5,-2149 672.5,-2149 672.5,-2079 521.5,-2079"/>
 </g>
 <!-- FAKE_10&#45;&gt;FAKE_11 -->
 <g id="edge8" class="edge">
 <title>FAKE_10&#45;&gt;FAKE_11</title>
-<path fill="none" stroke="#000000" d="M599.134,-2346.7394C598.0661,-2298.3279 596.2502,-2216.0084 595.0889,-2163.3633"/>
-<polygon fill="#000000" stroke="#000000" points="598.5856,-2163.1691 594.8658,-2153.2487 591.5873,-2163.3235 598.5856,-2163.1691"/>
+<path fill="none" stroke="#000000" d="M599.567,-2346.7394C599.033,-2298.3279 598.1251,-2216.0084 597.5444,-2163.3633"/>
+<polygon fill="#000000" stroke="#000000" points="601.0431,-2163.2095 597.4329,-2153.2487 594.0435,-2163.2868 601.0431,-2163.2095"/>
 </g>
 <!-- FAKE_18 -->
 <g id="FAKE_18" class="node">
 <title>FAKE_18</title>
-<polygon fill="none" stroke="#000000" points="528,-1978 528,-1998 661,-1998 661,-1978 528,-1978"/>
-<text text-anchor="start" x="536.3091" y="-1984.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Merge Join Operator</text>
-<polygon fill="none" stroke="#000000" points="528,-1956 528,-1976 569,-1976 569,-1956 528,-1956"/>
-<text text-anchor="start" x="534.5034" y="-1961.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="571,-1956 571,-1976 661,-1976 661,-1956 571,-1956"/>
-<text text-anchor="start" x="574" y="-1961.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 19959799710 </text>
-<polygon fill="none" stroke="#000000" points="528,-1934 528,-1954 569,-1954 569,-1934 528,-1934"/>
-<text text-anchor="start" x="530.6069" y="-1939.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="571,-1934 571,-1954 661,-1954 661,-1934 571,-1934"/>
-<text text-anchor="start" x="581" y="-1939.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 221490412 </text>
-<polygon fill="none" stroke="#000000" points="524.5,-1931 524.5,-2001 663.5,-2001 663.5,-1931 524.5,-1931"/>
+<polygon fill="none" stroke="#000000" points="527,-1978 527,-1998 667,-1998 667,-1978 527,-1978"/>
+<text text-anchor="start" x="538.8091" y="-1984.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Merge Join Operator</text>
+<polygon fill="none" stroke="#000000" points="527,-1956 527,-1976 568,-1976 568,-1956 527,-1956"/>
+<text text-anchor="start" x="533.5034" y="-1961.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="570,-1956 570,-1976 667,-1976 667,-1956 570,-1956"/>
+<text text-anchor="start" x="573" y="-1961.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 199582135518 </text>
+<polygon fill="none" stroke="#000000" points="527,-1934 527,-1954 568,-1954 568,-1934 527,-1934"/>
+<text text-anchor="start" x="529.6069" y="-1939.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="570,-1934 570,-1954 667,-1954 667,-1934 570,-1934"/>
+<text text-anchor="start" x="580" y="-1939.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 2214740929 </text>
+<polygon fill="none" stroke="#000000" points="524,-1931 524,-2001 670,-2001 670,-1931 524,-1931"/>
 </g>
 <!-- FAKE_11&#45;&gt;FAKE_18 -->
 <g id="edge55" class="edge">
 <title>FAKE_11:s&#45;&gt;FAKE_18:n</title>
-<path fill="none" stroke="#000000" d="M594,-2075C594,-2047.5347 594,-2038.2545 594,-2015.0513"/>
-<polygon fill="#000000" stroke="#000000" points="597.5001,-2015 594,-2005 590.5001,-2015 597.5001,-2015"/>
-<text text-anchor="middle" x="641.0552" y="-2045.8" font-family="Times,serif" font-size="14.00" fill="#000000">SIMPLE_EDGE</text>
+<path fill="none" stroke="#000000" d="M597,-2075C597,-2047.5347 597,-2038.2545 597,-2015.0513"/>
+<polygon fill="#000000" stroke="#000000" points="600.5001,-2015 597,-2005 593.5001,-2015 600.5001,-2015"/>
+<text text-anchor="middle" x="644.0552" y="-2045.8" font-family="Times,serif" font-size="14.00" fill="#000000">SIMPLE_EDGE</text>
 </g>
 <!-- FAKE_12 -->
 <g id="FAKE_12" class="node">
 <title>FAKE_12</title>
-<polygon fill="none" stroke="#000000" points="878,-2818 878,-2838 1011,-2838 1011,-2818 878,-2818"/>
-<text text-anchor="start" x="886.3091" y="-2824.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Merge Join Operator</text>
-<polygon fill="none" stroke="#000000" points="878,-2796 878,-2816 919,-2816 919,-2796 878,-2796"/>
-<text text-anchor="start" x="884.5034" y="-2801.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="921,-2796 921,-2816 1011,-2816 1011,-2796 921,-2796"/>
-<text text-anchor="start" x="924" y="-2801.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 16495701526 </text>
-<polygon fill="none" stroke="#000000" points="878,-2774 878,-2794 919,-2794 919,-2774 878,-2774"/>
-<text text-anchor="start" x="880.6069" y="-2779.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="921,-2774 921,-2794 1011,-2794 1011,-2774 921,-2774"/>
-<text text-anchor="start" x="931" y="-2779.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 183049920 </text>
-<polygon fill="none" stroke="#000000" points="874.5,-2771 874.5,-2841 1013.5,-2841 1013.5,-2771 874.5,-2771"/>
+<polygon fill="none" stroke="#000000" points="874,-2818 874,-2838 1014,-2838 1014,-2818 874,-2818"/>
+<text text-anchor="start" x="885.8091" y="-2824.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Merge Join Operator</text>
+<polygon fill="none" stroke="#000000" points="874,-2796 874,-2816 915,-2816 915,-2796 874,-2796"/>
+<text text-anchor="start" x="880.5034" y="-2801.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="917,-2796 917,-2816 1014,-2816 1014,-2796 917,-2796"/>
+<text text-anchor="start" x="920" y="-2801.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 164943906502 </text>
+<polygon fill="none" stroke="#000000" points="874,-2774 874,-2794 915,-2794 915,-2774 874,-2774"/>
+<text text-anchor="start" x="876.6069" y="-2779.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="917,-2774 917,-2794 1014,-2794 1014,-2774 917,-2774"/>
+<text text-anchor="start" x="927" y="-2779.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1830364325 </text>
+<polygon fill="none" stroke="#000000" points="871,-2771 871,-2841 1017,-2841 1017,-2771 871,-2771"/>
 </g>
 <!-- FAKE_13 -->
 <g id="FAKE_13" class="node">
 <title>FAKE_13</title>
-<polygon fill="none" stroke="#000000" points="866,-2546 866,-2566 1011,-2566 1011,-2546 866,-2546"/>
-<text text-anchor="start" x="869.6895" y="-2552.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
-<polygon fill="none" stroke="#000000" points="866,-2524 866,-2544 913,-2544 913,-2524 866,-2524"/>
-<text text-anchor="start" x="875.5034" y="-2529.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="915,-2524 915,-2544 1011,-2544 1011,-2524 915,-2524"/>
-<text text-anchor="start" x="921" y="-2529.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 16495701526 </text>
-<polygon fill="none" stroke="#000000" points="866,-2502 866,-2522 913,-2522 913,-2502 866,-2502"/>
-<text text-anchor="start" x="871.6069" y="-2507.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="915,-2502 915,-2522 1011,-2522 1011,-2502 915,-2502"/>
-<text text-anchor="start" x="928" y="-2507.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 183049920 </text>
-<polygon fill="none" stroke="#000000" points="862.5,-2499 862.5,-2569 1013.5,-2569 1013.5,-2499 862.5,-2499"/>
+<polygon fill="none" stroke="#000000" points="869,-2546 869,-2566 1014,-2566 1014,-2546 869,-2546"/>
+<text text-anchor="start" x="872.6895" y="-2552.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
+<polygon fill="none" stroke="#000000" points="869,-2524 869,-2544 912,-2544 912,-2524 869,-2524"/>
+<text text-anchor="start" x="876.5034" y="-2529.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="914,-2524 914,-2544 1014,-2544 1014,-2524 914,-2524"/>
+<text text-anchor="start" x="918.5" y="-2529.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 164943906502 </text>
+<polygon fill="none" stroke="#000000" points="869,-2502 869,-2522 912,-2522 912,-2502 869,-2502"/>
+<text text-anchor="start" x="872.6069" y="-2507.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="914,-2502 914,-2522 1014,-2522 1014,-2502 914,-2502"/>
+<text text-anchor="start" x="925.5" y="-2507.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1830364325 </text>
+<polygon fill="none" stroke="#000000" points="865.5,-2499 865.5,-2569 1016.5,-2569 1016.5,-2499 865.5,-2499"/>
 </g>
 <!-- FAKE_12&#45;&gt;FAKE_13 -->
 <g id="edge9" class="edge">
 <title>FAKE_12&#45;&gt;FAKE_13</title>
-<path fill="none" stroke="#000000" d="M943.134,-2766.7394C942.0661,-2718.3279 940.2502,-2636.0084 939.0889,-2583.3633"/>
-<polygon fill="#000000" stroke="#000000" points="942.5856,-2583.1691 938.8658,-2573.2487 935.5873,-2583.3235 942.5856,-2583.1691"/>
+<path fill="none" stroke="#000000" d="M943.567,-2766.7394C943.033,-2718.3279 942.1251,-2636.0084 941.5444,-2583.3633"/>
+<polygon fill="#000000" stroke="#000000" points="945.0431,-2583.2095 941.4329,-2573.2487 938.0435,-2583.2868 945.0431,-2583.2095"/>
 </g>
 <!-- FAKE_13&#45;&gt;FAKE_10 -->
 <g id="edge48" class="edge">
 <title>FAKE_13:s&#45;&gt;FAKE_10:n</title>
-<path fill="none" stroke="#000000" d="M938,-2495C938,-2422.0404 632.202,-2493.9412 602.3389,-2435.1281"/>
-<polygon fill="#000000" stroke="#000000" points="605.6604,-2433.956 600,-2425 598.8399,-2435.5311 605.6604,-2433.956"/>
-<text text-anchor="middle" x="976.0552" y="-2465.8" font-family="Times,serif" font-size="14.00" fill="#000000">SIMPLE_EDGE</text>
+<path fill="none" stroke="#000000" d="M941,-2495C941,-2421.2682 631.2195,-2494.7719 602.1776,-2434.8435"/>
+<polygon fill="#000000" stroke="#000000" points="605.5774,-2434.0079 600,-2425 598.7427,-2435.52 605.5774,-2434.0079"/>
+<text text-anchor="middle" x="979.0552" y="-2465.8" font-family="Times,serif" font-size="14.00" fill="#000000">SIMPLE_EDGE</text>
 </g>
 <!-- FAKE_14 -->
 <g id="FAKE_14" class="node">
 <title>FAKE_14</title>
-<polygon fill="none" stroke="#000000" points="167,-1434 167,-1454 300,-1454 300,-1434 167,-1434"/>
-<text text-anchor="start" x="175.3091" y="-1440.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Merge Join Operator</text>
-<polygon fill="none" stroke="#000000" points="167,-1412 167,-1432 208,-1432 208,-1412 167,-1412"/>
-<text text-anchor="start" x="173.5034" y="-1417.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="210,-1412 210,-1432 300,-1432 300,-1412 210,-1412"/>
-<text text-anchor="start" x="213" y="-1417.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 24151358695 </text>
-<polygon fill="none" stroke="#000000" points="167,-1390 167,-1410 208,-1410 208,-1390 167,-1390"/>
-<text text-anchor="start" x="169.6069" y="-1395.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="210,-1390 210,-1410 300,-1410 300,-1390 210,-1390"/>
-<text text-anchor="start" x="220" y="-1395.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 268003409 </text>
-<polygon fill="none" stroke="#000000" points="163.5,-1387 163.5,-1457 302.5,-1457 302.5,-1387 163.5,-1387"/>
+<polygon fill="none" stroke="#000000" points="163,-1434 163,-1454 303,-1454 303,-1434 163,-1434"/>
+<text text-anchor="start" x="174.8091" y="-1440.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Merge Join Operator</text>
+<polygon fill="none" stroke="#000000" points="163,-1412 163,-1432 204,-1432 204,-1412 163,-1412"/>
+<text text-anchor="start" x="169.5034" y="-1417.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="206,-1412 206,-1432 303,-1432 303,-1412 206,-1412"/>
+<text text-anchor="start" x="209" y="-1417.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 241494394445 </text>
+<polygon fill="none" stroke="#000000" points="163,-1390 163,-1410 204,-1410 204,-1390 163,-1390"/>
+<text text-anchor="start" x="165.6069" y="-1395.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="206,-1390 206,-1410 303,-1410 303,-1390 206,-1390"/>
+<text text-anchor="start" x="216" y="-1395.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 2679836639 </text>
+<polygon fill="none" stroke="#000000" points="160,-1387 160,-1457 306,-1457 306,-1387 160,-1387"/>
 </g>
 <!-- FAKE_15 -->
 <g id="FAKE_15" class="node">
 <title>FAKE_15</title>
-<polygon fill="none" stroke="#000000" points="167,-1281 167,-1301 300,-1301 300,-1281 167,-1281"/>
-<text text-anchor="start" x="189.7705" y="-1287.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Select Operator</text>
-<polygon fill="none" stroke="#000000" points="167,-1259 167,-1279 208,-1279 208,-1259 167,-1259"/>
-<text text-anchor="start" x="173.5034" y="-1264.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="210,-1259 210,-1279 300,-1279 300,-1259 210,-1259"/>
-<text text-anchor="start" x="213" y="-1264.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 24151358695 </text>
-<polygon fill="none" stroke="#000000" points="167,-1237 167,-1257 208,-1257 208,-1237 167,-1237"/>
-<text text-anchor="start" x="169.6069" y="-1242.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="210,-1237 210,-1257 300,-1257 300,-1237 210,-1237"/>
-<text text-anchor="start" x="220" y="-1242.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 268003409 </text>
-<polygon fill="none" stroke="#000000" points="163.5,-1234 163.5,-1304 302.5,-1304 302.5,-1234 163.5,-1234"/>
+<polygon fill="none" stroke="#000000" points="163,-1281 163,-1301 303,-1301 303,-1281 163,-1281"/>
+<text text-anchor="start" x="189.2705" y="-1287.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Select Operator</text>
+<polygon fill="none" stroke="#000000" points="163,-1259 163,-1279 204,-1279 204,-1259 163,-1259"/>
+<text text-anchor="start" x="169.5034" y="-1264.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="206,-1259 206,-1279 303,-1279 303,-1259 206,-1259"/>
+<text text-anchor="start" x="209" y="-1264.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 241494394445 </text>
+<polygon fill="none" stroke="#000000" points="163,-1237 163,-1257 204,-1257 204,-1237 163,-1237"/>
+<text text-anchor="start" x="165.6069" y="-1242.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="206,-1237 206,-1257 303,-1257 303,-1237 206,-1237"/>
+<text text-anchor="start" x="216" y="-1242.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 2679836639 </text>
+<polygon fill="none" stroke="#000000" points="160,-1234 160,-1304 306,-1304 306,-1234 160,-1234"/>
 </g>
 <!-- FAKE_14&#45;&gt;FAKE_15 -->
 <g id="edge10" class="edge">
@@ -454,17 +454,17 @@
 <!-- FAKE_16 -->
 <g id="FAKE_16" class="node">
 <title>FAKE_16</title>
-<polygon fill="none" stroke="#000000" points="167,-1128 167,-1148 300,-1148 300,-1128 167,-1128"/>
-<text text-anchor="start" x="179.0688" y="-1134.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Group By Operator</text>
-<polygon fill="none" stroke="#000000" points="167,-1106 167,-1126 208,-1126 208,-1106 167,-1106"/>
-<text text-anchor="start" x="173.5034" y="-1111.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="210,-1106 210,-1126 300,-1126 300,-1106 210,-1106"/>
-<text text-anchor="start" x="213" y="-1111.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 24151358695 </text>
-<polygon fill="none" stroke="#000000" points="167,-1084 167,-1104 208,-1104 208,-1084 167,-1084"/>
-<text text-anchor="start" x="169.6069" y="-1089.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="210,-1084 210,-1104 300,-1104 300,-1084 210,-1084"/>
-<text text-anchor="start" x="220" y="-1089.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 268003409 </text>
-<polygon fill="none" stroke="#000000" points="163.5,-1081 163.5,-1151 302.5,-1151 302.5,-1081 163.5,-1081"/>
+<polygon fill="none" stroke="#000000" points="163,-1128 163,-1148 303,-1148 303,-1128 163,-1128"/>
+<text text-anchor="start" x="178.5688" y="-1134.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Group By Operator</text>
+<polygon fill="none" stroke="#000000" points="163,-1106 163,-1126 204,-1126 204,-1106 163,-1106"/>
+<text text-anchor="start" x="169.5034" y="-1111.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="206,-1106 206,-1126 303,-1126 303,-1106 206,-1106"/>
+<text text-anchor="start" x="209" y="-1111.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 241494394445 </text>
+<polygon fill="none" stroke="#000000" points="163,-1084 163,-1104 204,-1104 204,-1084 163,-1084"/>
+<text text-anchor="start" x="165.6069" y="-1089.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="206,-1084 206,-1104 303,-1104 303,-1084 206,-1084"/>
+<text text-anchor="start" x="216" y="-1089.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 2679836639 </text>
+<polygon fill="none" stroke="#000000" points="160,-1081 160,-1151 306,-1151 306,-1081 160,-1081"/>
 </g>
 <!-- FAKE_15&#45;&gt;FAKE_16 -->
 <g id="edge11" class="edge">
@@ -477,14 +477,14 @@
 <title>FAKE_17</title>
 <polygon fill="none" stroke="#000000" points="161,-975 161,-995 306,-995 306,-975 161,-975"/>
 <text text-anchor="start" x="164.6895" y="-981.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
-<polygon fill="none" stroke="#000000" points="161,-953 161,-973 208,-973 208,-953 161,-953"/>
-<text text-anchor="start" x="170.5034" y="-958.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="210,-953 210,-973 306,-973 306,-953 210,-953"/>
-<text text-anchor="start" x="216" y="-958.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 24151358695 </text>
-<polygon fill="none" stroke="#000000" points="161,-931 161,-951 208,-951 208,-931 161,-931"/>
-<text text-anchor="start" x="166.6069" y="-936.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="210,-931 210,-951 306,-951 306,-931 210,-931"/>
-<text text-anchor="start" x="223" y="-936.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 268003409 </text>
+<polygon fill="none" stroke="#000000" points="161,-953 161,-973 204,-973 204,-953 161,-953"/>
+<text text-anchor="start" x="168.5034" y="-958.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="206,-953 206,-973 306,-973 306,-953 206,-953"/>
+<text text-anchor="start" x="210.5" y="-958.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 241494394445 </text>
+<polygon fill="none" stroke="#000000" points="161,-931 161,-951 204,-951 204,-931 161,-931"/>
+<text text-anchor="start" x="164.6069" y="-936.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="206,-931 206,-951 306,-951 306,-931 206,-931"/>
+<text text-anchor="start" x="217.5" y="-936.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 2679836639 </text>
 <polygon fill="none" stroke="#000000" points="157.5,-928 157.5,-998 308.5,-998 308.5,-928 157.5,-928"/>
 </g>
 <!-- FAKE_16&#45;&gt;FAKE_17 -->
@@ -503,44 +503,44 @@
 <!-- FAKE_19 -->
 <g id="FAKE_19" class="node">
 <title>FAKE_19</title>
-<polygon fill="none" stroke="#000000" points="412,-1735 412,-1755 545,-1755 545,-1735 412,-1735"/>
-<text text-anchor="start" x="425.624" y="-1741.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Map Join Operator</text>
-<polygon fill="none" stroke="#000000" points="412,-1713 412,-1733 453,-1733 453,-1713 412,-1713"/>
-<text text-anchor="start" x="418.5034" y="-1718.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="455,-1713 455,-1733 545,-1733 545,-1713 455,-1713"/>
-<text text-anchor="start" x="458" y="-1718.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 21955780156 </text>
-<polygon fill="none" stroke="#000000" points="412,-1691 412,-1711 453,-1711 453,-1691 412,-1691"/>
-<text text-anchor="start" x="414.6069" y="-1696.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="455,-1691 455,-1711 545,-1711 545,-1691 455,-1691"/>
-<text text-anchor="start" x="465" y="-1696.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 243639458 </text>
-<polygon fill="none" stroke="#000000" points="408.5,-1688 408.5,-1758 547.5,-1758 547.5,-1688 408.5,-1688"/>
+<polygon fill="none" stroke="#000000" points="411,-1735 411,-1755 551,-1755 551,-1735 411,-1735"/>
+<text text-anchor="start" x="428.124" y="-1741.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Map Join Operator</text>
+<polygon fill="none" stroke="#000000" points="411,-1713 411,-1733 452,-1733 452,-1713 411,-1713"/>
+<text text-anchor="start" x="417.5034" y="-1718.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="454,-1713 454,-1733 551,-1733 551,-1713 454,-1713"/>
+<text text-anchor="start" x="457" y="-1718.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 219540353828 </text>
+<polygon fill="none" stroke="#000000" points="411,-1691 411,-1711 452,-1711 452,-1691 411,-1691"/>
+<text text-anchor="start" x="413.6069" y="-1696.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="454,-1691 454,-1711 551,-1711 551,-1691 454,-1691"/>
+<text text-anchor="start" x="464" y="-1696.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 2436215074 </text>
+<polygon fill="none" stroke="#000000" points="408,-1688 408,-1758 554,-1758 554,-1688 408,-1688"/>
 </g>
 <!-- FAKE_18&#45;&gt;FAKE_19 -->
 <g id="edge13" class="edge">
 <title>FAKE_18&#45;&gt;FAKE_19</title>
-<path fill="none" stroke="#000000" d="M585.8552,-1926.9129C576.5672,-1887.7931 558.9438,-1826.8491 531,-1780 528.9937,-1776.6363 526.7623,-1773.3037 524.3825,-1770.0381"/>
-<polygon fill="#000000" stroke="#000000" points="527.1015,-1767.833 518.205,-1762.0795 521.5719,-1772.1252 527.1015,-1767.833"/>
+<path fill="none" stroke="#000000" d="M588.8552,-1926.9129C579.5672,-1887.7931 561.9438,-1826.8491 534,-1780 531.9937,-1776.6363 529.7623,-1773.3037 527.3825,-1770.0381"/>
+<polygon fill="#000000" stroke="#000000" points="530.1015,-1767.833 521.205,-1762.0795 524.5719,-1772.1252 530.1015,-1767.833"/>
 </g>
 <!-- FAKE_20 -->
 <g id="FAKE_20" class="node">
 <title>FAKE_20</title>
 <polygon fill="none" stroke="#000000" points="412,-1582 412,-1602 557,-1602 557,-1582 412,-1582"/>
 <text text-anchor="start" x="415.6895" y="-1588.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
-<polygon fill="none" stroke="#000000" points="412,-1560 412,-1580 459,-1580 459,-1560 412,-1560"/>
-<text text-anchor="start" x="421.5034" y="-1565.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="461,-1560 461,-1580 557,-1580 557,-1560 461,-1560"/>
-<text text-anchor="start" x="467" y="-1565.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 21955780156 </text>
-<polygon fill="none" stroke="#000000" points="412,-1538 412,-1558 459,-1558 459,-1538 412,-1538"/>
-<text text-anchor="start" x="417.6069" y="-1543.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="461,-1538 461,-1558 557,-1558 557,-1538 461,-1538"/>
-<text text-anchor="start" x="474" y="-1543.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 243639458 </text>
+<polygon fill="none" stroke="#000000" points="412,-1560 412,-1580 455,-1580 455,-1560 412,-1560"/>
+<text text-anchor="start" x="419.5034" y="-1565.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="457,-1560 457,-1580 557,-1580 557,-1560 457,-1560"/>
+<text text-anchor="start" x="461.5" y="-1565.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 219540353828 </text>
+<polygon fill="none" stroke="#000000" points="412,-1538 412,-1558 455,-1558 455,-1538 412,-1538"/>
+<text text-anchor="start" x="415.6069" y="-1543.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="457,-1538 457,-1558 557,-1558 557,-1538 457,-1538"/>
+<text text-anchor="start" x="468.5" y="-1543.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 2436215074 </text>
 <polygon fill="none" stroke="#000000" points="408.5,-1535 408.5,-1605 559.5,-1605 559.5,-1535 408.5,-1535"/>
 </g>
 <!-- FAKE_19&#45;&gt;FAKE_20 -->
 <g id="edge14" class="edge">
 <title>FAKE_19&#45;&gt;FAKE_20</title>
-<path fill="none" stroke="#000000" d="M479.5296,-1683.9958C480.3024,-1664.2897 481.2481,-1640.1737 482.0704,-1619.206"/>
-<polygon fill="#000000" stroke="#000000" points="485.5682,-1619.3282 482.4628,-1609.1987 478.5735,-1619.0539 485.5682,-1619.3282"/>
+<path fill="none" stroke="#000000" d="M481.7648,-1683.9958C482.1512,-1664.2897 482.624,-1640.1737 483.0352,-1619.206"/>
+<polygon fill="#000000" stroke="#000000" points="486.5346,-1619.2655 483.2314,-1609.1987 479.5359,-1619.1282 486.5346,-1619.2655"/>
 </g>
 <!-- FAKE_20&#45;&gt;FAKE_14 -->
 <g id="edge52" class="edge">
@@ -552,38 +552,38 @@
 <!-- FAKE_21 -->
 <g id="FAKE_21" class="node">
 <title>FAKE_21</title>
-<polygon fill="none" stroke="#000000" points="1177,-3196 1177,-3216 1310,-3216 1310,-3196 1177,-3196"/>
-<text text-anchor="start" x="1185.3091" y="-3202.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Merge Join Operator</text>
-<polygon fill="none" stroke="#000000" points="1177,-3174 1177,-3194 1218,-3194 1218,-3174 1177,-3174"/>
-<text text-anchor="start" x="1183.5034" y="-3179.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1220,-3174 1220,-3194 1310,-3194 1310,-3174 1220,-3174"/>
-<text text-anchor="start" x="1223" y="-3179.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 14996091972 </text>
-<polygon fill="none" stroke="#000000" points="1177,-3152 1177,-3172 1218,-3172 1218,-3152 1177,-3152"/>
-<text text-anchor="start" x="1179.6069" y="-3157.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1220,-3152 1220,-3172 1310,-3172 1310,-3152 1220,-3152"/>
-<text text-anchor="start" x="1230" y="-3157.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 166409015 </text>
-<polygon fill="none" stroke="#000000" points="1173.5,-3149 1173.5,-3219 1312.5,-3219 1312.5,-3149 1173.5,-3149"/>
+<polygon fill="none" stroke="#000000" points="1170,-3196 1170,-3216 1310,-3216 1310,-3196 1170,-3196"/>
+<text text-anchor="start" x="1181.8091" y="-3202.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Merge Join Operator</text>
+<polygon fill="none" stroke="#000000" points="1170,-3174 1170,-3194 1211,-3194 1211,-3174 1170,-3174"/>
+<text text-anchor="start" x="1176.5034" y="-3179.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1213,-3174 1213,-3194 1310,-3194 1310,-3174 1213,-3174"/>
+<text text-anchor="start" x="1216" y="-3179.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 149949002661 </text>
+<polygon fill="none" stroke="#000000" points="1170,-3152 1170,-3172 1211,-3172 1211,-3152 1170,-3152"/>
+<text text-anchor="start" x="1172.6069" y="-3157.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1213,-3152 1213,-3172 1310,-3172 1310,-3152 1213,-3152"/>
+<text text-anchor="start" x="1223" y="-3157.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1663967533 </text>
+<polygon fill="none" stroke="#000000" points="1167,-3149 1167,-3219 1313,-3219 1313,-3149 1167,-3149"/>
 </g>
 <!-- FAKE_22 -->
 <g id="FAKE_22" class="node">
 <title>FAKE_22</title>
 <polygon fill="none" stroke="#000000" points="1165,-2966 1165,-2986 1310,-2986 1310,-2966 1165,-2966"/>
 <text text-anchor="start" x="1168.6895" y="-2972.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
-<polygon fill="none" stroke="#000000" points="1165,-2944 1165,-2964 1212,-2964 1212,-2944 1165,-2944"/>
-<text text-anchor="start" x="1174.5034" y="-2949.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1214,-2944 1214,-2964 1310,-2964 1310,-2944 1214,-2944"/>
-<text text-anchor="start" x="1220" y="-2949.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 14996091972 </text>
-<polygon fill="none" stroke="#000000" points="1165,-2922 1165,-2942 1212,-2942 1212,-2922 1165,-2922"/>
-<text text-anchor="start" x="1170.6069" y="-2927.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1214,-2922 1214,-2942 1310,-2942 1310,-2922 1214,-2922"/>
-<text text-anchor="start" x="1227" y="-2927.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 166409015 </text>
+<polygon fill="none" stroke="#000000" points="1165,-2944 1165,-2964 1208,-2964 1208,-2944 1165,-2944"/>
+<text text-anchor="start" x="1172.5034" y="-2949.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1210,-2944 1210,-2964 1310,-2964 1310,-2944 1210,-2944"/>
+<text text-anchor="start" x="1214.5" y="-2949.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 149949002661 </text>
+<polygon fill="none" stroke="#000000" points="1165,-2922 1165,-2942 1208,-2942 1208,-2922 1165,-2922"/>
+<text text-anchor="start" x="1168.6069" y="-2927.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1210,-2922 1210,-2942 1310,-2942 1310,-2922 1210,-2922"/>
+<text text-anchor="start" x="1221.5" y="-2927.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1663967533 </text>
 <polygon fill="none" stroke="#000000" points="1161.5,-2919 1161.5,-2989 1312.5,-2989 1312.5,-2919 1161.5,-2919"/>
 </g>
 <!-- FAKE_21&#45;&gt;FAKE_22 -->
 <g id="edge15" class="edge">
 <title>FAKE_21&#45;&gt;FAKE_22</title>
-<path fill="none" stroke="#000000" d="M1241.9822,-3144.9836C1240.9629,-3105.9111 1239.391,-3045.6568 1238.286,-3003.2985"/>
-<polygon fill="#000000" stroke="#000000" points="1241.7825,-3003.1131 1238.0228,-2993.2078 1234.7849,-3003.2957 1241.7825,-3003.1131"/>
+<path fill="none" stroke="#000000" d="M1239.4911,-3144.9836C1238.9814,-3105.9111 1238.1955,-3045.6568 1237.643,-3003.2985"/>
+<polygon fill="#000000" stroke="#000000" points="1241.1416,-3003.1612 1237.5114,-2993.2078 1234.1422,-3003.2526 1241.1416,-3003.1612"/>
 </g>
 <!-- FAKE_22&#45;&gt;FAKE_12 -->
 <g id="edge50" class="edge">
@@ -595,30 +595,30 @@
 <!-- FAKE_24 -->
 <g id="FAKE_24" class="node">
 <title>FAKE_24</title>
-<polygon fill="none" stroke="#000000" points="1171,-3344 1171,-3364 1316,-3364 1316,-3344 1171,-3344"/>
-<text text-anchor="start" x="1174.6895" y="-3350.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
-<polygon fill="none" stroke="#000000" points="1171,-3322 1171,-3342 1218,-3342 1218,-3322 1171,-3322"/>
-<text text-anchor="start" x="1180.5034" y="-3327.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1220,-3322 1220,-3342 1316,-3342 1316,-3322 1220,-3322"/>
-<text text-anchor="start" x="1226" y="-3327.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 13632810589 </text>
-<polygon fill="none" stroke="#000000" points="1171,-3300 1171,-3320 1218,-3320 1218,-3300 1171,-3300"/>
-<text text-anchor="start" x="1176.6069" y="-3305.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1220,-3300 1220,-3320 1316,-3320 1316,-3300 1220,-3300"/>
-<text text-anchor="start" x="1233" y="-3305.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 151280920 </text>
-<polygon fill="none" stroke="#000000" points="1167.5,-3297 1167.5,-3367 1318.5,-3367 1318.5,-3297 1167.5,-3297"/>
+<polygon fill="none" stroke="#000000" points="1168,-3344 1168,-3364 1313,-3364 1313,-3344 1168,-3344"/>
+<text text-anchor="start" x="1171.6895" y="-3350.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
+<polygon fill="none" stroke="#000000" points="1168,-3322 1168,-3342 1211,-3342 1211,-3322 1168,-3322"/>
+<text text-anchor="start" x="1175.5034" y="-3327.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1213,-3322 1213,-3342 1313,-3342 1313,-3322 1213,-3322"/>
+<text text-anchor="start" x="1217.5" y="-3327.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 136317272192 </text>
+<polygon fill="none" stroke="#000000" points="1168,-3300 1168,-3320 1211,-3320 1211,-3300 1168,-3300"/>
+<text text-anchor="start" x="1171.6069" y="-3305.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1213,-3300 1213,-3320 1313,-3320 1313,-3300 1213,-3300"/>
+<text text-anchor="start" x="1224.5" y="-3305.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1512697725 </text>
+<polygon fill="none" stroke="#000000" points="1164.5,-3297 1164.5,-3367 1315.5,-3367 1315.5,-3297 1164.5,-3297"/>
 </g>
 <!-- FAKE_23&#45;&gt;FAKE_24 -->
 <g id="edge16" class="edge">
 <title>FAKE_23&#45;&gt;FAKE_24</title>
-<path fill="none" stroke="#000000" d="M1243,-3564.7394C1243,-3516.3279 1243,-3434.0084 1243,-3381.3633"/>
-<polygon fill="#000000" stroke="#000000" points="1246.5001,-3381.2487 1243,-3371.2487 1239.5001,-3381.2488 1246.5001,-3381.2487"/>
+<path fill="none" stroke="#000000" d="M1240,-3564.7394C1240,-3516.3279 1240,-3434.0084 1240,-3381.3633"/>
+<polygon fill="#000000" stroke="#000000" points="1243.5001,-3381.2487 1240,-3371.2487 1236.5001,-3381.2488 1243.5001,-3381.2487"/>
 </g>
 <!-- FAKE_24&#45;&gt;FAKE_21 -->
 <g id="edge57" class="edge">
 <title>FAKE_24:s&#45;&gt;FAKE_21:n</title>
-<path fill="none" stroke="#000000" d="M1243,-3293C1243,-3265.5347 1243,-3256.2545 1243,-3233.0513"/>
-<polygon fill="#000000" stroke="#000000" points="1246.5001,-3233 1243,-3223 1239.5001,-3233 1246.5001,-3233"/>
-<text text-anchor="middle" x="1290.0552" y="-3263.8" font-family="Times,serif" font-size="14.00" fill="#000000">SIMPLE_EDGE</text>
+<path fill="none" stroke="#000000" d="M1240,-3293C1240,-3265.5347 1240,-3256.2545 1240,-3233.0513"/>
+<polygon fill="#000000" stroke="#000000" points="1243.5001,-3233 1240,-3223 1236.5001,-3233 1243.5001,-3233"/>
+<text text-anchor="middle" x="1287.0552" y="-3263.8" font-family="Times,serif" font-size="14.00" fill="#000000">SIMPLE_EDGE</text>
 </g>
 <!-- FAKE_25 -->
 <g id="FAKE_25" class="node">
@@ -628,11 +628,11 @@
 <polygon fill="none" stroke="#000000" points="44,-2241 44,-2261 85,-2261 85,-2241 44,-2241"/>
 <text text-anchor="start" x="50.5034" y="-2246.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
 <polygon fill="none" stroke="#000000" points="87,-2241 87,-2261 156,-2261 156,-2241 87,-2241"/>
-<text text-anchor="start" x="90" y="-2246.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 88810543 </text>
+<text text-anchor="start" x="90" y="-2246.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 40122128 </text>
 <polygon fill="none" stroke="#000000" points="44,-2219 44,-2239 85,-2239 85,-2219 44,-2219"/>
 <text text-anchor="start" x="46.6069" y="-2224.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
 <polygon fill="none" stroke="#000000" points="87,-2219 87,-2239 156,-2239 156,-2219 87,-2219"/>
-<text text-anchor="start" x="100.5" y="-2224.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 62000 </text>
+<text text-anchor="start" x="100.5" y="-2224.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 28000 </text>
 <polygon fill="none" stroke="#000000" points="44,-2197 44,-2217 85,-2217 85,-2197 44,-2197"/>
 <text text-anchor="start" x="49.7275" y="-2202.8" font-family="Times,serif" font-size="14.00" fill="#000000">alias:</text>
 <polygon fill="none" stroke="#000000" points="87,-2197 87,-2217 156,-2217 156,-2197 87,-2197"/>
@@ -647,11 +647,11 @@
 <polygon fill="none" stroke="#000000" points="44,-1956 44,-1976 85,-1976 85,-1956 44,-1956"/>
 <text text-anchor="start" x="50.5034" y="-1961.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
 <polygon fill="none" stroke="#000000" points="87,-1956 87,-1976 156,-1976 156,-1956 87,-1956"/>
-<text text-anchor="start" x="90" y="-1961.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 88810543 </text>
+<text text-anchor="start" x="90" y="-1961.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 40122128 </text>
 <polygon fill="none" stroke="#000000" points="44,-1934 44,-1954 85,-1954 85,-1934 44,-1934"/>
 <text text-anchor="start" x="46.6069" y="-1939.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
 <polygon fill="none" stroke="#000000" points="87,-1934 87,-1954 156,-1954 156,-1934 87,-1934"/>
-<text text-anchor="start" x="100.5" y="-1939.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 62000 </text>
+<text text-anchor="start" x="100.5" y="-1939.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 28000 </text>
 <polygon fill="none" stroke="#000000" points="41,-1931 41,-2001 159,-2001 159,-1931 41,-1931"/>
 </g>
 <!-- FAKE_25&#45;&gt;FAKE_26 -->
@@ -668,11 +668,11 @@
 <polygon fill="none" stroke="#000000" points="44,-1713 44,-1733 85,-1733 85,-1713 44,-1713"/>
 <text text-anchor="start" x="50.5034" y="-1718.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
 <polygon fill="none" stroke="#000000" points="87,-1713 87,-1733 156,-1733 156,-1713 87,-1713"/>
-<text text-anchor="start" x="90" y="-1718.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 88810543 </text>
+<text text-anchor="start" x="90" y="-1718.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 40122128 </text>
 <polygon fill="none" stroke="#000000" points="44,-1691 44,-1711 85,-1711 85,-1691 44,-1691"/>
 <text text-anchor="start" x="46.6069" y="-1696.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
 <polygon fill="none" stroke="#000000" points="87,-1691 87,-1711 156,-1711 156,-1691 87,-1691"/>
-<text text-anchor="start" x="100.5" y="-1696.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 62000 </text>
+<text text-anchor="start" x="100.5" y="-1696.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 28000 </text>
 <polygon fill="none" stroke="#000000" points="41,-1688 41,-1758 159,-1758 159,-1688 41,-1688"/>
 </g>
 <!-- FAKE_26&#45;&gt;FAKE_27 -->
@@ -689,11 +689,11 @@
 <polygon fill="none" stroke="#000000" points="28,-1560 28,-1580 85,-1580 85,-1560 28,-1560"/>
 <text text-anchor="start" x="42.5034" y="-1565.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
 <polygon fill="none" stroke="#000000" points="87,-1560 87,-1580 173,-1580 173,-1560 87,-1560"/>
-<text text-anchor="start" x="98.5" y="-1565.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 88810543 </text>
+<text text-anchor="start" x="98.5" y="-1565.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 40122128 </text>
 <polygon fill="none" stroke="#000000" points="28,-1538 28,-1558 85,-1558 85,-1538 28,-1538"/>
 <text text-anchor="start" x="38.6069" y="-1543.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
 <polygon fill="none" stroke="#000000" points="87,-1538 87,-1558 173,-1558 173,-1538 87,-1538"/>
-<text text-anchor="start" x="109" y="-1543.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 62000 </text>
+<text text-anchor="start" x="109" y="-1543.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 28000 </text>
 <polygon fill="none" stroke="#000000" points="24.5,-1535 24.5,-1605 175.5,-1605 175.5,-1535 24.5,-1535"/>
 </g>
 <!-- FAKE_27&#45;&gt;FAKE_28 -->
@@ -717,11 +717,11 @@
 <polygon fill="none" stroke="#000000" points="243,-2661 243,-2681 284,-2681 284,-2661 243,-2661"/>
 <text text-anchor="start" x="249.5034" y="-2666.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
 <polygon fill="none" stroke="#000000" points="286,-2661 286,-2681 341,-2681 341,-2661 286,-2661"/>
-<text text-anchor="start" x="289" y="-2666.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 276085 </text>
+<text text-anchor="start" x="289" y="-2666.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 130472 </text>
 <polygon fill="none" stroke="#000000" points="243,-2639 243,-2659 284,-2659 284,-2639 243,-2639"/>
 <text text-anchor="start" x="245.6069" y="-2644.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
 <polygon fill="none" stroke="#000000" points="286,-2639 286,-2659 341,-2659 341,-2639 286,-2639"/>
-<text text-anchor="start" x="299.5" y="-2644.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 144 </text>
+<text text-anchor="start" x="303" y="-2644.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 68 </text>
 <polygon fill="none" stroke="#000000" points="243,-2617 243,-2637 284,-2637 284,-2617 243,-2617"/>
 <text text-anchor="start" x="248.7275" y="-2622.8" font-family="Times,serif" font-size="14.00" fill="#000000">alias:</text>
 <polygon fill="none" stroke="#000000" points="286,-2617 286,-2637 341,-2637 341,-2617 286,-2617"/>
@@ -736,11 +736,11 @@
 <polygon fill="none" stroke="#000000" points="243,-2376 243,-2396 284,-2396 284,-2376 243,-2376"/>
 <text text-anchor="start" x="249.5034" y="-2381.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
 <polygon fill="none" stroke="#000000" points="286,-2376 286,-2396 341,-2396 341,-2376 286,-2376"/>
-<text text-anchor="start" x="289" y="-2381.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 276085 </text>
+<text text-anchor="start" x="289" y="-2381.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 130472 </text>
 <polygon fill="none" stroke="#000000" points="243,-2354 243,-2374 284,-2374 284,-2354 243,-2354"/>
 <text text-anchor="start" x="245.6069" y="-2359.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
 <polygon fill="none" stroke="#000000" points="286,-2354 286,-2374 341,-2374 341,-2354 286,-2354"/>
-<text text-anchor="start" x="299.5" y="-2359.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 144 </text>
+<text text-anchor="start" x="303" y="-2359.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 68 </text>
 <polygon fill="none" stroke="#000000" points="240,-2351 240,-2421 344,-2421 344,-2351 240,-2351"/>
 </g>
 <!-- FAKE_29&#45;&gt;FAKE_30 -->
@@ -757,11 +757,11 @@
 <polygon fill="none" stroke="#000000" points="243,-2104 243,-2124 284,-2124 284,-2104 243,-2104"/>
 <text text-anchor="start" x="249.5034" y="-2109.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
 <polygon fill="none" stroke="#000000" points="286,-2104 286,-2124 341,-2124 341,-2104 286,-2104"/>
-<text text-anchor="start" x="289" y="-2109.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 276085 </text>
+<text text-anchor="start" x="289" y="-2109.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 130472 </text>
 <polygon fill="none" stroke="#000000" points="243,-2082 243,-2102 284,-2102 284,-2082 243,-2082"/>
 <text text-anchor="start" x="245.6069" y="-2087.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
 <polygon fill="none" stroke="#000000" points="286,-2082 286,-2102 341,-2102 341,-2082 286,-2082"/>
-<text text-anchor="start" x="299.5" y="-2087.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 144 </text>
+<text text-anchor="start" x="303" y="-2087.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 68 </text>
 <polygon fill="none" stroke="#000000" points="240,-2079 240,-2149 344,-2149 344,-2079 240,-2079"/>
 </g>
 <!-- FAKE_30&#45;&gt;FAKE_31 -->
@@ -778,11 +778,11 @@
 <polygon fill="none" stroke="#000000" points="220,-1841 220,-1861 284,-1861 284,-1841 220,-1841"/>
 <text text-anchor="start" x="238.0034" y="-1846.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
 <polygon fill="none" stroke="#000000" points="286,-1841 286,-1861 365,-1861 365,-1841 286,-1841"/>
-<text text-anchor="start" x="301" y="-1846.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 276085 </text>
+<text text-anchor="start" x="301" y="-1846.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 130472 </text>
 <polygon fill="none" stroke="#000000" points="220,-1819 220,-1839 284,-1839 284,-1819 220,-1819"/>
 <text text-anchor="start" x="234.1069" y="-1824.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
 <polygon fill="none" stroke="#000000" points="286,-1819 286,-1839 365,-1839 365,-1819 286,-1819"/>
-<text text-anchor="start" x="311.5" y="-1824.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 144 </text>
+<text text-anchor="start" x="315" y="-1824.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 68 </text>
 <polygon fill="none" stroke="#000000" points="216.5,-1816 216.5,-1886 367.5,-1886 367.5,-1816 216.5,-1816"/>
 </g>
 <!-- FAKE_31&#45;&gt;FAKE_32 -->
@@ -794,9 +794,9 @@
 <!-- FAKE_32&#45;&gt;FAKE_19 -->
 <g id="edge54" class="edge">
 <title>FAKE_32:s&#45;&gt;FAKE_19:e</title>
-<path fill="none" stroke="#000000" d="M292,-1812C292,-1761.1344 352.0294,-1790.0967 401.8828,-1780 435.6777,-1773.1556 533.076,-1787.7572 556,-1762 564.5527,-1752.3902 569.9579,-1735.5621 565.0902,-1727.5238"/>
-<polygon fill="#000000" stroke="#000000" points="566.512,-1724.322 556,-1723 563.3932,-1730.5889 566.512,-1724.322"/>
-<text text-anchor="middle" x="466.5586" y="-1782.8" font-family="Times,serif" font-size="14.00" fill="#000000">BROADCAST_EDGE</text>
+<path fill="none" stroke="#000000" d="M292,-1812C292,-1759.853 353.7256,-1790.112 404.8828,-1780 439.3591,-1773.1852 538.6068,-1788.2262 562,-1762 570.5633,-1752.3996 575.9634,-1735.567 571.0923,-1727.5257"/>
+<polygon fill="#000000" stroke="#000000" points="572.5119,-1724.3228 562,-1723 569.3927,-1730.5894 572.5119,-1724.3228"/>
+<text text-anchor="middle" x="469.5586" y="-1782.8" font-family="Times,serif" font-size="14.00" fill="#000000">BROADCAST_EDGE</text>
 </g>
 <!-- FAKE_33 -->
 <g id="FAKE_33" class="node">
@@ -946,8 +946,8 @@
 <!-- FAKE_39&#45;&gt;FAKE_18 -->
 <g id="edge53" class="edge">
 <title>FAKE_39:s&#45;&gt;FAKE_18:n</title>
-<path fill="none" stroke="#000000" d="M1784,-2075C1784,-2011.6202 694.0685,-2066.0961 600.4025,-2012.8446"/>
-<polygon fill="#000000" stroke="#000000" points="603.0346,-2010.5341 594,-2005 597.6116,-2014.9603 603.0346,-2010.5341"/>
+<path fill="none" stroke="#000000" d="M1784,-2075C1784,-2011.7795 696.8162,-2065.9574 603.3864,-2012.8258"/>
+<polygon fill="#000000" stroke="#000000" points="606.0343,-2010.5347 597,-2005 600.6109,-2014.9605 606.0343,-2010.5347"/>
 <text text-anchor="middle" x="1783.0552" y="-2045.8" font-family="Times,serif" font-size="14.00" fill="#000000">SIMPLE_EDGE</text>
 </g>
 <!-- FAKE_40 -->
@@ -1262,11 +1262,11 @@
 <polygon fill="none" stroke="#000000" points="1489,-4151 1489,-4171 1530,-4171 1530,-4151 1489,-4151"/>
 <text text-anchor="start" x="1495.5034" y="-4156.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
 <polygon fill="none" stroke="#000000" points="1532,-4151 1532,-4171 1624,-4171 1624,-4151 1532,-4151"/>
-<text text-anchor="start" x="1539.5" y="-4156.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 9722554208 </text>
+<text text-anchor="start" x="1536" y="-4156.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 97230610916 </text>
 <polygon fill="none" stroke="#000000" points="1489,-4129 1489,-4149 1530,-4149 1530,-4129 1489,-4129"/>
 <text text-anchor="start" x="1491.6069" y="-4134.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
 <polygon fill="none" stroke="#000000" points="1532,-4129 1532,-4149 1624,-4149 1624,-4129 1532,-4129"/>
-<text text-anchor="start" x="1546.5" y="-4134.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 71637279 </text>
+<text text-anchor="start" x="1543" y="-4134.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 716413281 </text>
 <polygon fill="none" stroke="#000000" points="1489,-4107 1489,-4127 1530,-4127 1530,-4107 1489,-4107"/>
 <text text-anchor="start" x="1494.7275" y="-4112.8" font-family="Times,serif" font-size="14.00" fill="#000000">alias:</text>
 <polygon fill="none" stroke="#000000" points="1532,-4107 1532,-4127 1624,-4127 1624,-4107 1532,-4107"/>
@@ -1276,17 +1276,17 @@
 <!-- FAKE_55 -->
 <g id="FAKE_55" class="node">
 <title>FAKE_55</title>
-<polygon fill="none" stroke="#000000" points="1493,-3890 1493,-3910 1619,-3910 1619,-3890 1493,-3890"/>
-<text text-anchor="start" x="1514.2085" y="-3896.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Filter Operator</text>
-<polygon fill="none" stroke="#000000" points="1493,-3868 1493,-3888 1534,-3888 1534,-3868 1493,-3868"/>
-<text text-anchor="start" x="1499.5034" y="-3873.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1536,-3868 1536,-3888 1619,-3888 1619,-3868 1536,-3868"/>
-<text text-anchor="start" x="1539" y="-3873.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 9722554208 </text>
-<polygon fill="none" stroke="#000000" points="1493,-3846 1493,-3866 1534,-3866 1534,-3846 1493,-3846"/>
-<text text-anchor="start" x="1495.6069" y="-3851.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1536,-3846 1536,-3866 1619,-3866 1619,-3846 1536,-3846"/>
-<text text-anchor="start" x="1546" y="-3851.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 71637279 </text>
-<polygon fill="none" stroke="#000000" points="1490,-3843 1490,-3913 1622,-3913 1622,-3843 1490,-3843"/>
+<polygon fill="none" stroke="#000000" points="1490,-3890 1490,-3910 1623,-3910 1623,-3890 1490,-3890"/>
+<text text-anchor="start" x="1514.7085" y="-3896.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Filter Operator</text>
+<polygon fill="none" stroke="#000000" points="1490,-3868 1490,-3888 1531,-3888 1531,-3868 1490,-3868"/>
+<text text-anchor="start" x="1496.5034" y="-3873.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1533,-3868 1533,-3888 1623,-3888 1623,-3868 1533,-3868"/>
+<text text-anchor="start" x="1536" y="-3873.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 97230610916 </text>
+<polygon fill="none" stroke="#000000" points="1490,-3846 1490,-3866 1531,-3866 1531,-3846 1490,-3846"/>
+<text text-anchor="start" x="1492.6069" y="-3851.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1533,-3846 1533,-3866 1623,-3866 1623,-3846 1533,-3846"/>
+<text text-anchor="start" x="1543" y="-3851.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 716413281 </text>
+<polygon fill="none" stroke="#000000" points="1486.5,-3843 1486.5,-3913 1625.5,-3913 1625.5,-3843 1486.5,-3843"/>
 </g>
 <!-- FAKE_54&#45;&gt;FAKE_55 -->
 <g id="edge41" class="edge">
@@ -1297,17 +1297,17 @@
 <!-- FAKE_56 -->
 <g id="FAKE_56" class="node">
 <title>FAKE_56</title>
-<polygon fill="none" stroke="#000000" points="1493,-3616 1493,-3636 1619,-3636 1619,-3616 1493,-3616"/>
-<text text-anchor="start" x="1512.2705" y="-3622.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Select Operator</text>
-<polygon fill="none" stroke="#000000" points="1493,-3594 1493,-3614 1534,-3614 1534,-3594 1493,-3594"/>
-<text text-anchor="start" x="1499.5034" y="-3599.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1536,-3594 1536,-3614 1619,-3614 1619,-3594 1536,-3594"/>
-<text text-anchor="start" x="1539" y="-3599.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 9722554208 </text>
-<polygon fill="none" stroke="#000000" points="1493,-3572 1493,-3592 1534,-3592 1534,-3572 1493,-3572"/>
-<text text-anchor="start" x="1495.6069" y="-3577.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1536,-3572 1536,-3592 1619,-3592 1619,-3572 1536,-3572"/>
-<text text-anchor="start" x="1546" y="-3577.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 71637279 </text>
-<polygon fill="none" stroke="#000000" points="1490,-3569 1490,-3639 1622,-3639 1622,-3569 1490,-3569"/>
+<polygon fill="none" stroke="#000000" points="1490,-3616 1490,-3636 1623,-3636 1623,-3616 1490,-3616"/>
+<text text-anchor="start" x="1512.7705" y="-3622.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Select Operator</text>
+<polygon fill="none" stroke="#000000" points="1490,-3594 1490,-3614 1531,-3614 1531,-3594 1490,-3594"/>
+<text text-anchor="start" x="1496.5034" y="-3599.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1533,-3594 1533,-3614 1623,-3614 1623,-3594 1533,-3594"/>
+<text text-anchor="start" x="1536" y="-3599.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 97230610916 </text>
+<polygon fill="none" stroke="#000000" points="1490,-3572 1490,-3592 1531,-3592 1531,-3572 1490,-3572"/>
+<text text-anchor="start" x="1492.6069" y="-3577.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1533,-3572 1533,-3592 1623,-3592 1623,-3572 1533,-3572"/>
+<text text-anchor="start" x="1543" y="-3577.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 716413281 </text>
+<polygon fill="none" stroke="#000000" points="1486.5,-3569 1486.5,-3639 1625.5,-3639 1625.5,-3569 1486.5,-3569"/>
 </g>
 <!-- FAKE_55&#45;&gt;FAKE_56 -->
 <g id="edge42" class="edge">
@@ -1320,14 +1320,14 @@
 <title>FAKE_57</title>
 <polygon fill="none" stroke="#000000" points="1484,-3344 1484,-3364 1629,-3364 1629,-3344 1484,-3344"/>
 <text text-anchor="start" x="1487.6895" y="-3350.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
-<polygon fill="none" stroke="#000000" points="1484,-3322 1484,-3342 1534,-3342 1534,-3322 1484,-3322"/>
-<text text-anchor="start" x="1495.0034" y="-3327.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1536,-3322 1536,-3342 1629,-3342 1629,-3322 1536,-3322"/>
-<text text-anchor="start" x="1544" y="-3327.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 9722554208 </text>
-<polygon fill="none" stroke="#000000" points="1484,-3300 1484,-3320 1534,-3320 1534,-3300 1484,-3300"/>
-<text text-anchor="start" x="1491.1069" y="-3305.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1536,-3300 1536,-3320 1629,-3320 1629,-3300 1536,-3300"/>
-<text text-anchor="start" x="1551" y="-3305.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 71637279 </text>
+<polygon fill="none" stroke="#000000" points="1484,-3322 1484,-3342 1531,-3342 1531,-3322 1484,-3322"/>
+<text text-anchor="start" x="1493.5034" y="-3327.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1533,-3322 1533,-3342 1629,-3342 1629,-3322 1533,-3322"/>
+<text text-anchor="start" x="1539" y="-3327.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 97230610916 </text>
+<polygon fill="none" stroke="#000000" points="1484,-3300 1484,-3320 1531,-3320 1531,-3300 1484,-3300"/>
+<text text-anchor="start" x="1489.6069" y="-3305.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1533,-3300 1533,-3320 1629,-3320 1629,-3300 1533,-3300"/>
+<text text-anchor="start" x="1546" y="-3305.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 716413281 </text>
 <polygon fill="none" stroke="#000000" points="1480.5,-3297 1480.5,-3367 1631.5,-3367 1631.5,-3297 1480.5,-3297"/>
 </g>
 <!-- FAKE_56&#45;&gt;FAKE_57 -->
@@ -1339,8 +1339,8 @@
 <!-- FAKE_57&#45;&gt;FAKE_21 -->
 <g id="edge56" class="edge">
 <title>FAKE_57:s&#45;&gt;FAKE_21:n</title>
-<path fill="none" stroke="#000000" d="M1556,-3293C1556,-3225.3456 1273.9819,-3287.2765 1245.3395,-3232.7831"/>
-<polygon fill="#000000" stroke="#000000" points="1248.7298,-3231.9118 1243,-3223 1241.9218,-3233.5398 1248.7298,-3231.9118"/>
+<path fill="none" stroke="#000000" d="M1556,-3293C1556,-3224.7279 1271.2789,-3287.8001 1242.3619,-3232.8677"/>
+<polygon fill="#000000" stroke="#000000" points="1245.7317,-3231.9105 1240,-3223 1238.924,-3233.5401 1245.7317,-3231.9105"/>
 <text text-anchor="middle" x="1590.0552" y="-3263.8" font-family="Times,serif" font-size="14.00" fill="#000000">SIMPLE_EDGE</text>
 </g>
 <!-- FAKE_58 -->
@@ -1351,11 +1351,11 @@
 <polygon fill="none" stroke="#000000" points="1298,-4503 1298,-4523 1339,-4523 1339,-4503 1298,-4503"/>
 <text text-anchor="start" x="1304.5034" y="-4508.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
 <polygon fill="none" stroke="#000000" points="1341,-4503 1341,-4523 1431,-4523 1431,-4503 1341,-4503"/>
-<text text-anchor="start" x="1347.5" y="-4508.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1093992672 </text>
+<text text-anchor="start" x="1344" y="-4508.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 10945658876 </text>
 <polygon fill="none" stroke="#000000" points="1298,-4481 1298,-4501 1339,-4501 1339,-4481 1298,-4481"/>
 <text text-anchor="start" x="1300.6069" y="-4486.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
 <polygon fill="none" stroke="#000000" points="1341,-4481 1341,-4501 1431,-4501 1431,-4481 1341,-4481"/>
-<text text-anchor="start" x="1354.5" y="-4486.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 13888994 </text>
+<text text-anchor="start" x="1351" y="-4486.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 138963448 </text>
 <polygon fill="none" stroke="#000000" points="1298,-4459 1298,-4479 1339,-4479 1339,-4459 1298,-4459"/>
 <text text-anchor="start" x="1303.7275" y="-4464.8" font-family="Times,serif" font-size="14.00" fill="#000000">alias:</text>
 <polygon fill="none" stroke="#000000" points="1341,-4459 1341,-4479 1431,-4479 1431,-4459 1341,-4459"/>
@@ -1365,17 +1365,17 @@
 <!-- FAKE_59 -->
 <g id="FAKE_59" class="node">
 <title>FAKE_59</title>
-<polygon fill="none" stroke="#000000" points="1301,-4319 1301,-4339 1427,-4339 1427,-4319 1301,-4319"/>
-<text text-anchor="start" x="1322.2085" y="-4325.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Filter Operator</text>
-<polygon fill="none" stroke="#000000" points="1301,-4297 1301,-4317 1342,-4317 1342,-4297 1301,-4297"/>
-<text text-anchor="start" x="1307.5034" y="-4302.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1344,-4297 1344,-4317 1427,-4317 1427,-4297 1344,-4297"/>
-<text text-anchor="start" x="1347" y="-4302.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1093992672 </text>
-<polygon fill="none" stroke="#000000" points="1301,-4275 1301,-4295 1342,-4295 1342,-4275 1301,-4275"/>
-<text text-anchor="start" x="1303.6069" y="-4280.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1344,-4275 1344,-4295 1427,-4295 1427,-4275 1344,-4275"/>
-<text text-anchor="start" x="1354" y="-4280.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 13888994 </text>
-<polygon fill="none" stroke="#000000" points="1298,-4272 1298,-4342 1430,-4342 1430,-4272 1298,-4272"/>
+<polygon fill="none" stroke="#000000" points="1298,-4319 1298,-4339 1431,-4339 1431,-4319 1298,-4319"/>
+<text text-anchor="start" x="1322.7085" y="-4325.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Filter Operator</text>
+<polygon fill="none" stroke="#000000" points="1298,-4297 1298,-4317 1339,-4317 1339,-4297 1298,-4297"/>
+<text text-anchor="start" x="1304.5034" y="-4302.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1341,-4297 1341,-4317 1431,-4317 1431,-4297 1341,-4297"/>
+<text text-anchor="start" x="1344" y="-4302.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 10945658876 </text>
+<polygon fill="none" stroke="#000000" points="1298,-4275 1298,-4295 1339,-4295 1339,-4275 1298,-4275"/>
+<text text-anchor="start" x="1300.6069" y="-4280.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1341,-4275 1341,-4295 1431,-4295 1431,-4275 1341,-4275"/>
+<text text-anchor="start" x="1351" y="-4280.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 138963448 </text>
+<polygon fill="none" stroke="#000000" points="1294.5,-4272 1294.5,-4342 1433.5,-4342 1433.5,-4272 1294.5,-4272"/>
 </g>
 <!-- FAKE_58&#45;&gt;FAKE_59 -->
 <g id="edge44" class="edge">
@@ -1386,17 +1386,17 @@
 <!-- FAKE_60 -->
 <g id="FAKE_60" class="node">
 <title>FAKE_60</title>
-<polygon fill="none" stroke="#000000" points="1301,-4036 1301,-4056 1427,-4056 1427,-4036 1301,-4036"/>
-<text text-anchor="start" x="1320.2705" y="-4042.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Select Operator</text>
-<polygon fill="none" stroke="#000000" points="1301,-4014 1301,-4034 1342,-4034 1342,-4014 1301,-4014"/>
-<text text-anchor="start" x="1307.5034" y="-4019.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1344,-4014 1344,-4034 1427,-4034 1427,-4014 1344,-4014"/>
-<text text-anchor="start" x="1347" y="-4019.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1093992672 </text>
-<polygon fill="none" stroke="#000000" points="1301,-3992 1301,-4012 1342,-4012 1342,-3992 1301,-3992"/>
-<text text-anchor="start" x="1303.6069" y="-3997.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1344,-3992 1344,-4012 1427,-4012 1427,-3992 1344,-3992"/>
-<text text-anchor="start" x="1354" y="-3997.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 13888994 </text>
-<polygon fill="none" stroke="#000000" points="1298,-3989 1298,-4059 1430,-4059 1430,-3989 1298,-3989"/>
+<polygon fill="none" stroke="#000000" points="1298,-4036 1298,-4056 1431,-4056 1431,-4036 1298,-4036"/>
+<text text-anchor="start" x="1320.7705" y="-4042.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Select Operator</text>
+<polygon fill="none" stroke="#000000" points="1298,-4014 1298,-4034 1339,-4034 1339,-4014 1298,-4014"/>
+<text text-anchor="start" x="1304.5034" y="-4019.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1341,-4014 1341,-4034 1431,-4034 1431,-4014 1341,-4014"/>
+<text text-anchor="start" x="1344" y="-4019.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 10945658876 </text>
+<polygon fill="none" stroke="#000000" points="1298,-3992 1298,-4012 1339,-4012 1339,-3992 1298,-3992"/>
+<text text-anchor="start" x="1300.6069" y="-3997.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1341,-3992 1341,-4012 1431,-4012 1431,-3992 1341,-3992"/>
+<text text-anchor="start" x="1351" y="-3997.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 138963448 </text>
+<polygon fill="none" stroke="#000000" points="1294.5,-3989 1294.5,-4059 1433.5,-4059 1433.5,-3989 1294.5,-3989"/>
 </g>
 <!-- FAKE_59&#45;&gt;FAKE_60 -->
 <g id="edge45" class="edge">
@@ -1409,14 +1409,14 @@
 <title>FAKE_61</title>
 <polygon fill="none" stroke="#000000" points="1292,-3764 1292,-3784 1437,-3784 1437,-3764 1292,-3764"/>
 <text text-anchor="start" x="1295.6895" y="-3770.8" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Reduce Output Operator</text>
-<polygon fill="none" stroke="#000000" points="1292,-3742 1292,-3762 1342,-3762 1342,-3742 1292,-3742"/>
-<text text-anchor="start" x="1303.0034" y="-3747.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
-<polygon fill="none" stroke="#000000" points="1344,-3742 1344,-3762 1437,-3762 1437,-3742 1344,-3742"/>
-<text text-anchor="start" x="1352" y="-3747.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 1093992672 </text>
-<polygon fill="none" stroke="#000000" points="1292,-3720 1292,-3740 1342,-3740 1342,-3720 1292,-3720"/>
-<text text-anchor="start" x="1299.1069" y="-3725.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
-<polygon fill="none" stroke="#000000" points="1344,-3720 1344,-3740 1437,-3740 1437,-3720 1344,-3720"/>
-<text text-anchor="start" x="1359" y="-3725.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 13888994 </text>
+<polygon fill="none" stroke="#000000" points="1292,-3742 1292,-3762 1339,-3762 1339,-3742 1292,-3742"/>
+<text text-anchor="start" x="1301.5034" y="-3747.8" font-family="Times,serif" font-size="14.00" fill="#000000">Size:</text>
+<polygon fill="none" stroke="#000000" points="1341,-3742 1341,-3762 1437,-3762 1437,-3742 1341,-3742"/>
+<text text-anchor="start" x="1347" y="-3747.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 10945658876 </text>
+<polygon fill="none" stroke="#000000" points="1292,-3720 1292,-3740 1339,-3740 1339,-3720 1292,-3720"/>
+<text text-anchor="start" x="1297.6069" y="-3725.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rows:</text>
+<polygon fill="none" stroke="#000000" points="1341,-3720 1341,-3740 1437,-3740 1437,-3720 1341,-3720"/>
+<text text-anchor="start" x="1354" y="-3725.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 138963448 </text>
 <polygon fill="none" stroke="#000000" points="1288.5,-3717 1288.5,-3787 1439.5,-3787 1439.5,-3717 1288.5,-3717"/>
 </g>
 <!-- FAKE_60&#45;&gt;FAKE_61 -->
@@ -1428,9 +1428,9 @@
 <!-- FAKE_61&#45;&gt;FAKE_23 -->
 <g id="edge59" class="edge">
 <title>FAKE_61:s&#45;&gt;FAKE_23:n</title>
-<path fill="none" stroke="#000000" d="M1364,-3713C1364,-3654.6332 1257.2088,-3698.985 1244.277,-3653.0567"/>
-<polygon fill="#000000" stroke="#000000" points="1247.7319,-3652.4794 1243,-3643 1240.7877,-3653.3613 1247.7319,-3652.4794"/>
-<text text-anchor="middle" x="1404.0552" y="-3683.8" font-family="Times,serif" font-size="14.00" fill="#000000">SIMPLE_EDGE</text>
+<path fill="none" stroke="#000000" d="M1364,-3713C1364,-3653.422 1254.1055,-3700.0681 1241.2273,-3652.9382"/>
+<polygon fill="#000000" stroke="#000000" points="1244.6993,-3652.4956 1240,-3643 1237.7521,-3653.3536 1244.6993,-3652.4956"/>
+<text text-anchor="middle" x="1406.0552" y="-3683.8" font-family="Times,serif" font-size="14.00" fill="#000000">SIMPLE_EDGE</text>
 </g>
 </g>
 </svg>
